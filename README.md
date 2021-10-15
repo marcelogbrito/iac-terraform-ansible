@@ -2,3 +2,7 @@
 
 Esse script cria e sobe uma instancia micro gratuita Ubuntu no serviço EC2 da AWS
 
+http://3.80.85.55:8080/
+
+
+
